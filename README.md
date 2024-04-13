@@ -28,7 +28,7 @@ Write your own steps
 
 ### STEP 6:
  We build the model using Input, Embedding, Bidirectional LSTM, Spatial Dropout, Time Distributed Dense Layers.
-### STEP 7222;
+### STEP 7;
  We compile the model to fit the train sets and validation sets.
 
 ## PROGRAM
