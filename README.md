@@ -8,9 +8,7 @@ To develop an LSTM-based model for recognizing the named entities in the text.
 Our goal is to create a Bidirectional Recurrent Neural Network model based on LSTMs that will enable us to identify the specified items in the text.There are several sentences in the dataset, and each word has a tag.To train our model, we must vectorize these phrases using embedding techniques.
 
 Recurrent neural networks that are bidirectional link two hidden layers that point in opposing directions to the same output.
-## Neural Network Model
 
-Include the neural network model diagram.
 
 ## DESIGN STEPS
 
